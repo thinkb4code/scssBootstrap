@@ -8,7 +8,7 @@ Please check the solution structure. Keep in mind following things:
 * Correct import statement will be `import styles from '<relative path of file>'. 
 * Always use `./` to refer current directory. I had noticed, when one use VSCode intellisense, it uses path from `lib` directory. Which can be another issue.
 
-[!screenshot]('./screenshot/1.png')
+![screenshot]('./screenshot/1.png')
 
 ### Building the code
 
