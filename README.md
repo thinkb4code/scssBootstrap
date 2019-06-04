@@ -4,7 +4,7 @@ This solution was create to address StackExchange problem listed at https://shar
 ## scss
 
 Please check the solution structure. Keep in mind following things:
-* Are you using the default `module.scss` file or you created your own? If you created your own `module.scss` file, are you importing it?
+* Are you using the default `module.scss` file or you created your own? If you created your own `module.scss` file, are you importing it correctly?
 * Correct import statement will be `import styles from '<relative path of file>'. 
 * Always use `./` to refer current directory. I had noticed, when one use VSCode intellisense, it uses path from `lib` directory. Which can be another issue.
 
