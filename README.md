@@ -8,8 +8,8 @@ Please check the solution structure. Keep in mind following things:
 * Correct import statement will be `import styles from '<relative path of file>'. 
 * Always use `./` to refer current directory. I had noticed, when one use VSCode intellisense, it uses path from `lib` directory. Which can be another issue.
 
-![Code]('https://raw.githubusercontent.com/thinkb4code/scssBootstrap/master/screenshot/1.PNG')
-![Output]('https://raw.githubusercontent.com/thinkb4code/scssBootstrap/master/screenshot/2.PNG')
+![Code](https://raw.githubusercontent.com/thinkb4code/scssBootstrap/master/screenshot/1.PNG)
+![Output](https://raw.githubusercontent.com/thinkb4code/scssBootstrap/master/screenshot/2.png)
 
 ### Building the code
 
